@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  date: 2020-05-05 09:58:31
+  swing: one
+  mooder: one
+
+two:
+  title: MyString
+  date: 2020-05-05 09:58:31
+  swing: two
+  mooder: two
